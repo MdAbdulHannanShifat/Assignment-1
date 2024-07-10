@@ -43,7 +43,32 @@
 }
 .video{
  text-align: center;
+ margin: 20px;
 }
 .title-section{
   text-align: center;
+}
+.Target{
+  text-align: center;
+
+}
+.content{
+  display: flex;
+  margin: 180px;
+}
+.five{
+  background-color:gainsboro;
+  padding: 80px;
+  margin: 20px;
+  
+}
+.six{
+  padding: 80px;
+  background-color: ivory;
+  margin: 20px;
+}
+.seven{
+  padding: 80px;
+  background-color: lavenderblush;
+  margin: 20px;
 }
