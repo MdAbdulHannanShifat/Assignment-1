@@ -72,3 +72,35 @@
   background-color: lavenderblush;
   margin: 20px;
 }
+.eight{
+  text-align: center;
+  background-image: url(../assets/handshake.jpg);
+  margin-bottom: 120px;
+  padding: 30px;
+  background-position: center;
+  background-size: cover;
+  height: 290px;
+}
+.ten {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.ten h3{
+  font-size: 30px;
+  color: white;
+}
+.ten p{
+  color: white;
+}
+
+.kkk input {padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+.kkk button {padding: 20px;
+  width: 150px;
+  border-radius: 10px;
+}
